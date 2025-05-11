@@ -23,7 +23,7 @@ chocolat lumièreオンラインショップでは、`About Usページ`のみ�
 
 ## セクションを作成
 
-## `sections`ディレクトリに `members.liquid` と`twitter-feed.liquid`を作成
+## `sections`ディレクトリに `members.liquid` をを作成
 
 <details>
     <summary>コード全文</summary>
